@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { View } from "react-native";
-import { SafeAreaView } from "react-native-safe-area-context";
 
 //Views
 import LoginView from "../views/loginView";
@@ -11,8 +10,8 @@ export default function MainScreen() {
   const [loginView, setLoginView] = useState(0); // 0: login form, 1: register form
 
   return (
-    <View>
-      <SafeAreaView>{isLogged ? <MainApp /> : <LoginView />}</SafeAreaView>
+    <View style={{ flex: 1 }}>
+      {isLogged ? <MainApp /> : <LoginView />}
     </View>
   );
 }
