@@ -1,0 +1,204 @@
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/134.0.0.0 (Edition developer)","date":"2026-07-13T23:43:25.729Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":{},"date":"2026-07-13T23:49:39.248Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":{},"date":"2026-07-13T23:53:19.672Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":{},"date":"2026-07-13T23:53:31.663Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":{},"date":"2026-07-13T23:54:24.402Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":{},"date":"2026-07-13T23:54:28.444Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":{},"date":"2026-07-13T23:54:51.593Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":{},"date":"2026-07-13T23:55:16.183Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":{},"date":"2026-07-13T23:55:29.095Z"}
+{"message":"Intento de login para usuario: user067","level":"log","client":"web","device":{},"date":"2026-07-13T23:56:36.004Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"{}","date":"2026-07-13T23:57:25.835Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"{}","date":"2026-07-13T23:58:18.318Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-14T00:31:23.325Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-14T00:34:18.187Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T20:39:43.608Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T20:40:07.140Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T20:43:03.377Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T20:44:13.458Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T21:06:22.822Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T21:09:24.392Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T21:10:04.735Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T21:11:51.771Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T23:17:22.342Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-15T23:26:47.467Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-16T00:44:17.636Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-16T00:50:58.060Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-16T01:09:53.012Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-16T01:10:28.134Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-16T02:37:36.324Z"}
+{"message":"Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-16T02:40:26.654Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-07-16T07:04:12.295Z"}
+{"message":"58834506 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-17T01:27:20.151Z"}
+{"message":"58834506 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-17T01:27:20.404Z"}
+{"message":"31338517 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:17:58.794Z"}
+{"message":"31338517 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:17:59.058Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-07-24T16:19:26.762Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-07-24T16:20:40.291Z"}
+{"message":"31131895 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:13.620Z"}
+{"message":"06760440 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:13.630Z"}
+{"message":"42502499 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:13.630Z"}
+{"message":"80595810 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:13.645Z"}
+{"message":"65986046 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:13.645Z"}
+{"message":"42502499 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:13.849Z"}
+{"message":"31131895 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:13.850Z"}
+{"message":"06760440 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:13.853Z"}
+{"message":"80595810 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:14.192Z"}
+{"message":"65986046 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:22:14.193Z"}
+{"message":"58606074 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:23:11.555Z"}
+{"message":"58606074 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:23:11.781Z"}
+{"message":"01829024 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:23:11.783Z"}
+{"message":"01829024 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:23:12.014Z"}
+{"message":"91216240 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:23:26.344Z"}
+{"message":"91216240 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:23:26.796Z"}
+{"message":"94627915 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:27:12.278Z"}
+{"message":"18597163 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:27:12.305Z"}
+{"message":"94627915 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:27:12.515Z"}
+{"message":"18597163 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:27:12.532Z"}
+{"message":"52817913 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:27:20.762Z"}
+{"message":"52817913 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:27:21.112Z"}
+{"message":"80789599 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:29:58.892Z"}
+{"message":"64435516 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:29:58.905Z"}
+{"message":"64435516 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:29:59.220Z"}
+{"message":"80789599 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:29:59.220Z"}
+{"message":"61566760 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:30:32.696Z"}
+{"message":"61566760 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:30:32.931Z"}
+{"message":"02290950 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:30:32.933Z"}
+{"message":"02290950 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:30:33.154Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-07-24T16:32:42.035Z"}
+{"message":"08335585 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:36:45.196Z"}
+{"message":"66431210 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:36:45.239Z"}
+{"message":"08335585 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:36:45.658Z"}
+{"message":"66431210 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:36:45.658Z"}
+{"message":"60753604 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.669Z"}
+{"message":"64644304 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.679Z"}
+{"message":"48805353 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.679Z"}
+{"message":"60536348 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.695Z"}
+{"message":"97193704 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.695Z"}
+{"message":"60753604 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.912Z"}
+{"message":"48805353 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.913Z"}
+{"message":"64644304 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.914Z"}
+{"message":"60536348 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:56.928Z"}
+{"message":"97193704 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:43:57.006Z"}
+{"message":"44117203 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:36.810Z"}
+{"message":"61858675 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:36.835Z"}
+{"message":"26403818 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:36.835Z"}
+{"message":"93995550 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:36.851Z"}
+{"message":"96368765 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:36.851Z"}
+{"message":"44117203 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:37.047Z"}
+{"message":"26403818 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:37.056Z"}
+{"message":"61858675 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:37.057Z"}
+{"message":"93995550 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:37.080Z"}
+{"message":"96368765 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:47:37.108Z"}
+{"message":"22214524 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:12.493Z"}
+{"message":"22214524 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:12.711Z"}
+{"message":"77685037 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:20.906Z"}
+{"message":"22315619 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:20.926Z"}
+{"message":"30615548 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:20.933Z"}
+{"message":"24231103 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:20.945Z"}
+{"message":"48576456 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:20.951Z"}
+{"message":"77685037 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:21.129Z"}
+{"message":"22315619 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:21.147Z"}
+{"message":"30615548 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:21.156Z"}
+{"message":"48576456 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:21.174Z"}
+{"message":"24231103 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T16:48:21.190Z"}
+{"message":"05597474 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.408Z"}
+{"message":"30758958 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.419Z"}
+{"message":"18753498 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.419Z"}
+{"message":"57438455 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.434Z"}
+{"message":"09837669 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.434Z"}
+{"message":"05597474 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.647Z"}
+{"message":"18753498 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.651Z"}
+{"message":"30758958 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.651Z"}
+{"message":"57438455 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.656Z"}
+{"message":"09837669 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:03:02.703Z"}
+{"message":"82865091 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.183Z"}
+{"message":"79602809 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.184Z"}
+{"message":"04457350 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.194Z"}
+{"message":"64036021 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.210Z"}
+{"message":"88304282 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.210Z"}
+{"message":"82865091 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.417Z"}
+{"message":"04457350 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.418Z"}
+{"message":"79602809 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.418Z"}
+{"message":"64036021 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.430Z"}
+{"message":"88304282 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:08:17.473Z"}
+{"message":"48976172 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.606Z"}
+{"message":"38358714 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.616Z"}
+{"message":"76673804 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.616Z"}
+{"message":"92521486 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.631Z"}
+{"message":"13077095 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.632Z"}
+{"message":"13077095 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.935Z"}
+{"message":"92521486 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.935Z"}
+{"message":"76673804 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.935Z"}
+{"message":"48976172 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.936Z"}
+{"message":"38358714 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:29:51.982Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-07-24T17:41:15.604Z"}
+{"message":"06129728 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:48:00.060Z"}
+{"message":"06129728 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T17:48:00.293Z"}
+{"message":"11272802 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T18:31:12.022Z"}
+{"message":"11272802 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T18:31:12.434Z"}
+{"message":"30597206 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:52:24.180Z"}
+{"message":"30597206 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:52:24.431Z"}
+{"message":"05657228 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:57:27.998Z"}
+{"message":"05657228 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:57:28.281Z"}
+{"message":"93552877 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:57:56.502Z"}
+{"message":"93552877 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:57:56.851Z"}
+{"message":"43537392 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:58:13.406Z"}
+{"message":"43537392 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:58:13.666Z"}
+{"message":"68537062 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:58:35.359Z"}
+{"message":"68537062 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:58:35.578Z"}
+{"message":"93912446 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:58:42.803Z"}
+{"message":"93912446 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-24T19:58:43.213Z"}
+{"message":"34135921 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:01:57.664Z"}
+{"message":"34135921 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:01:58.023Z"}
+{"message":"43574811 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:04:38.657Z"}
+{"message":"43574811 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:04:39.127Z"}
+{"message":"01159077 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:07:02.255Z"}
+{"message":"01159077 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:07:02.493Z"}
+{"message":"66749838 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:09:31.578Z"}
+{"message":"66749838 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:09:31.806Z"}
+{"message":"55785367 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:21:59.175Z"}
+{"message":"55785367 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-26T17:21:59.408Z"}
+{"message":"76439078 Intento de login para usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-07-26T17:28:43.650Z"}
+{"message":"76439078 Login exitoso usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-07-26T17:28:44.060Z"}
+{"message":"77477068 Intento de login para usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-07-26T18:02:46.709Z"}
+{"message":"77477068 Login exitoso usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-07-26T18:02:46.944Z"}
+{"message":"54328860 Intento de login para usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-07-26T18:04:32.974Z"}
+{"message":"54328860 Login exitoso usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-07-26T18:04:33.210Z"}
+{"message":"34294943 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:53:28.668Z"}
+{"message":"34294943 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:53:28.996Z"}
+{"message":"59058094 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:53:45.358Z"}
+{"message":"59058094 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:53:45.792Z"}
+{"message":"84596424 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:55:17.534Z"}
+{"message":"84596424 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:55:17.751Z"}
+{"message":"36123571 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:56:11.964Z"}
+{"message":"36123571 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:56:12.334Z"}
+{"message":"67077231 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:58:42.028Z"}
+{"message":"67077231 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-07-27T20:58:42.254Z"}
+{"message":"Nuevo usuario registrado: user2464","level":"log","client":"vps","date":"2026-08-01T23:42:19.838Z"}
+{"message":"06012951 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T00:14:53.358Z"}
+{"message":"06012951 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T00:14:53.950Z"}
+{"message":"52148429 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T00:15:52.131Z"}
+{"message":"52148429 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T00:15:52.373Z"}
+{"message":"35302071 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T00:17:40.222Z"}
+{"message":"35302071 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T00:17:40.470Z"}
+{"message":"38376557 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T00:20:54.523Z"}
+{"message":"38376557 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T00:20:54.783Z"}
+{"message":"37663079 Intento de login para usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-09-13T00:22:35.477Z"}
+{"message":"37663079 Login exitoso usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-09-13T00:22:35.738Z"}
+{"message":"37891498 Intento de login para usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-09-13T00:25:33.251Z"}
+{"message":"37891498 Login exitoso usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-09-13T00:25:33.528Z"}
+{"message":"07847788 Intento de login para usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-09-13T00:26:25.335Z"}
+{"message":"07847788 Login exitoso usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-09-13T00:26:25.605Z"}
+{"message":"19683158 Intento de login para usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-09-13T00:27:37.640Z"}
+{"message":"19683158 Login exitoso usuario: user0667","level":"log","client":"web","device":"mobile","date":"2026-09-13T00:27:37.990Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-09-13T00:32:03.905Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-09-13T00:42:28.646Z"}
+{"message":"97118648 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T19:58:00.173Z"}
+{"message":"97118648 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T19:58:00.627Z"}
+{"message":"65581197 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T20:01:29.903Z"}
+{"message":"65581197 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T20:01:30.349Z"}
+{"message":"29625549 Intento de login para usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T20:06:05.905Z"}
+{"message":"29625549 Login exitoso usuario: user0667","level":"log","client":"web","device":"desktop","date":"2026-09-13T20:06:06.330Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-09-13T20:15:42.765Z"}
+{"message":"Usuario actualizado: user0667","level":"log","client":"vps","date":"2026-09-13T20:15:57.970Z"}
